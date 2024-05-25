@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T04:27:27.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Y9f9gsmlEKmxwBnklWhN" version="24.4.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-25T04:34:01.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="K2bfrTuR04F7B23MUrTv" version="24.4.8" type="github" pages="7">
   <diagram name="USE CASE" id="oDE1R4o6B0H4FJj-2-0s">
     <mxGraphModel dx="795" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -616,7 +616,7 @@
       <root>
         <mxCell id="jpW8Mf1VuYBP0fXttzhw-0" />
         <mxCell id="jpW8Mf1VuYBP0fXttzhw-1" parent="jpW8Mf1VuYBP0fXttzhw-0" />
-        <mxCell id="jpW8Mf1VuYBP0fXttzhw-2" value="Admin" style="swimlane;whiteSpace=wrap" vertex="1" parent="jpW8Mf1VuYBP0fXttzhw-1">
+        <mxCell id="jpW8Mf1VuYBP0fXttzhw-2" value="Admin/User" style="swimlane;whiteSpace=wrap" vertex="1" parent="jpW8Mf1VuYBP0fXttzhw-1">
           <mxGeometry x="160.5" y="128" width="199.5" height="392" as="geometry">
             <mxRectangle x="164.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
