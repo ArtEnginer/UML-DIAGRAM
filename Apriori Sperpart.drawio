@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T15:18:09.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8Tjt6Sjj6Li-sraouMPz" version="24.4.13" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-03T15:22:24.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="knSaylusRQ4NBbU_Wmf0" version="24.4.13" type="github" pages="12">
   <diagram name="USECASE" id="3b3OP00QxRM85oqDfntK">
     <mxGraphModel dx="768" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -596,7 +596,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rKN4hBP0eKyRo9_JTwY3" name="Squence Login">
+  <diagram id="rKN4hBP0eKyRo9_JTwY3" name="Squence Login/Logout">
     <mxGraphModel dx="1034" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1055,7 +1055,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5yZs1Q5v0zc2NP03C22F" name="Squence User">
-    <mxGraphModel dx="1034" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
