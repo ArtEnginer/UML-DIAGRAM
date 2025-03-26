@@ -1740,12 +1740,12 @@
         </mxCell>
         <mxCell id="F-5vNY6z6G1Uj64uLsv0-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="F-5vNY6z6G1Uj64uLsv0-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="280" as="sourcePoint" />
-            <mxPoint x="359" y="280" as="targetPoint" />
+            <mxPoint x="358" y="280" as="sourcePoint" />
+            <mxPoint x="358" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F-5vNY6z6G1Uj64uLsv0-5" value="Admin/ Guru" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F-5vNY6z6G1Uj64uLsv0-1">
-          <mxGeometry x="70" y="160" width="50" height="20" as="geometry" />
+          <mxGeometry x="50" y="155" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F-5vNY6z6G1Uj64uLsv0-6" value="FORM LOGIN" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F-5vNY6z6G1Uj64uLsv0-1">
           <mxGeometry x="190" y="120" width="100" height="120" as="geometry" />
@@ -1790,7 +1790,7 @@
           <mxGeometry x="170.00060606060606" y="210" as="geometry" />
         </mxCell>
         <mxCell id="F-5vNY6z6G1Uj64uLsv0-15" value="HALAMAN LAPORAN" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F-5vNY6z6G1Uj64uLsv0-1">
-          <mxGeometry x="340" y="120" width="100" height="200" as="geometry" />
+          <mxGeometry x="339" y="120" width="100" height="200" as="geometry" />
         </mxCell>
         <mxCell id="F-5vNY6z6G1Uj64uLsv0-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F-5vNY6z6G1Uj64uLsv0-15">
           <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
